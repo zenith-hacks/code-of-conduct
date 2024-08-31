@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Zenith Hacks Code of Conduct
 
 ## Our Pledge
 
